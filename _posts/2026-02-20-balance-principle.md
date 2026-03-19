@@ -3,7 +3,7 @@ layout: post
 title: "平衡原则：在任何关系中不卑不亢"
 subtitle: "核心原则之一"
 author: "极简沟通"
-header-img: "img/post-bg-balance.jpg"
+header-img: "img/bg-walle.jpg"
 header-mask: 0.4
 tags:
   - 核心原则

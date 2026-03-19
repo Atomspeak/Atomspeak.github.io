@@ -3,7 +3,7 @@ layout: post
 title: "极简沟通：少即是多的智慧"
 subtitle: "从加法到减法的革命"
 author: "极简沟通"
-header-img: "img/post-bg-minimal.jpg"
+header-img: "img/bg-walle.jpg"
 header-mask: 0.4
 tags:
   - 核心框架

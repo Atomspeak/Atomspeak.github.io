@@ -3,7 +3,7 @@ layout: post
 title: "目标模型：不要在对话中迷失"
 subtitle: "洞察本质需求，选择正确路径"
 author: "极简沟通"
-header-img: "img/post-bg-goal.jpg"
+header-img: "img/bg-walle.jpg"
 header-mask: 0.4
 tags:
   - 目标模型

@@ -3,7 +3,7 @@ layout: post
 title: "状态象限：你带给对方的是什么体验？"
 subtitle: "从自己的世界走出来"
 author: "极简沟通"
-header-img: "img/post-bg-state.jpg"
+header-img: "img/bg-walle.jpg"
 header-mask: 0.4
 tags:
   - 状态象限

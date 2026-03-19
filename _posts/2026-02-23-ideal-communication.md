@@ -3,7 +3,7 @@ layout: post
 title: "理想型沟通：有温度又有价值"
 subtitle: "创造对方愿意参与的对话"
 author: "极简沟通"
-header-img: "img/post-bg-ideal.jpg"
+header-img: "img/bg-walle.jpg"
 header-mask: 0.4
 tags:
   - 状态象限

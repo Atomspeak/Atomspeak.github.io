@@ -3,7 +3,7 @@ layout: post
 title: "为什么你读了那么多沟通书，还是不会沟通？"
 subtitle: "传统沟通学习的三大困境"
 author: "极简沟通"
-header-img: "img/post-bg-communication.jpg"
+header-img: "img/bg-walle.jpg"
 header-mask: 0.4
 tags:
   - 沟通学习

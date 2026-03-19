@@ -3,7 +3,7 @@ layout: post
 title: "主体原则：做情绪的主人"
 subtitle: "核心原则之二"
 author: "极简沟通"
-header-img: "img/post-bg-emotion.jpg"
+header-img: "img/bg-walle.jpg"
 header-mask: 0.4
 tags:
   - 核心原则

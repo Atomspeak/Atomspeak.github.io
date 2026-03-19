@@ -3,7 +3,7 @@ layout: post
 title: "ACE系统：从知道到做到"
 subtitle: "让工具成为你的一部分"
 author: "极简沟通"
-header-img: "img/post-bg-ace.jpg"
+header-img: "img/bg-walle.jpg"
 header-mask: 0.4
 tags:
   - ACE系统
