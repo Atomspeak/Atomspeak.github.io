@@ -1,63 +1,69 @@
-[极简沟通 | Atomspeak](https://atomspeak.github.io)
-================================
+# 极简沟通 | Atomspeak
 
 > 不是学得更多，而是懂得更少但更深
 
-![](http://atomspeak.github.io/img/blog-desktop.jpg)
+## 关于极简沟通
 
+**极简沟通** 是一套让艰难复杂的沟通化繁为简的方法论。
 
-[User Manual 👉](_doc/Manual.md)
---------------------------------------------------
+真正让我们重视沟通的，从来不是沟通本身，而是我们生命中那些重要的人和关系。极简沟通的起点，不是教你如何说话，而是帮你回到那个核心问题：你真正想要的是什么？
 
-### Getting Started
+## 核心理念
 
-1. You will need [Ruby](https://www.ruby-lang.org/en/) and [Bundler](https://bundler.io/) to use [Jekyll](https://jekyllrb.com/). Following [Using Jekyll with Bundler](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/) to fullfill the enviromental requirement.
+极简沟通从众多影响沟通的因素中，选择了三个关键因素：**信念、对象、需求**。
 
-2. Installed dependencies in the `Gemfile`:
+| 关键因素 | 为什么关键 | 对应工具 |
+|---------|-----------|---------|
+| 信念 | 决定信息的解释和表达方式 | 核心原则 |
+| 对象 | 影响信息的接收效果 | 状态象限 |
+| 需求 | 决定沟通的目的和策略 | 目标模型 |
 
-```sh
-$ bundle install 
+## 三剑客工具
+
+- **核心原则**：帮你建立正确的信念根基，赢在起点
+- **状态象限**：让你从自己的世界走出来，创造好过程
+- **目标模型**：帮你洞悉沟通的本质需求，实现目标
+
+三个工具独立完整，既可以独立使用，也可以组合使用。就像瑞士军刀，每个功能都完整有效，组合起来更加强大。
+
+## ACE系统
+
+ACE系统是让"三剑客"工具从知识变成能力的转化方法：
+
+- **A**ssess（评估）：获取关键信息
+- **C**hoose（选择）：做出正确决策
+- **E**stablish（创建）：实现期待结果
+
+**目标不是让你记住工具，而是让你忘掉工具——因为工具已经成为了你的一部分。**
+
+## 适用场景
+
+极简沟通特别适用于五种艰难复杂的沟通场景：
+
+1. 强烈的负向情绪
+2. 彼此的立场对立
+3. 双方认知差异大
+4. 遭遇他人的排斥
+5. 处于劣势的地位
+
+**能应对最难，自然能应对简单；能在暴风雨中航行，自然能在平静的湖面滑行。**
+
+## 博客运行
+
+本博客基于 Jekyll 构建。
+
+### 本地运行
+
+```bash
+# 安装依赖
+bundle install
+
+# 启动服务
+bundle exec jekyll serve
 ```
 
-3. Serve the website (`localhost:4000` by default):
+访问 `http://localhost:4000` 查看博客。
 
-```sh
-$ bundle exec jekyll serve  # alternatively, npm start
-```
-
-### Development (Build From Source)
-
-To modify the theme, you will need [Grunt](https://gruntjs.com/). There are numbers of tasks you can find in the `Gruntfile.js`, includes minifing JavaScript, compiling `.less` to `.css`, adding banners to keep the Apache 2.0 license intact, watching for changes, etc. 
-
-Yes, they were inherited and are extremely old-fashioned. There is no modularization and transpilation, etc.
-
-Critical Jekyll-related code are located in `_include/` and `_layouts/`. Most of them are [Liquid](https://github.com/Shopify/liquid/wiki) templates.
-
-This theme uses the default code syntax highlighter of jekyll, [Rouge](http://rouge.jneen.net/), which is compatible with Pygments theme so just pick any pygments theme css (e.g. from [here](http://jwarby.github.io/jekyll-pygments-themes/languages/javascript.html) and replace the content of `highlight.less`.
-
-
-### Interesting to know more? Checkout the [full user manual](_doc/Manual.md)!
-
-
-Other Resources
----------------
-
-Ports
-- [**Hexo**](https://github.com/Kaijun/hexo-theme-huxblog) by @kaijun
-- [**React-SSR**](https://github.com/LucasIcarus/huxpro.github.io/tree/ssr) by @LucasIcarus
-
-[Starter/Boilerplate](https://github.com/huxpro/huxblog-boilerplate)
-- Out of date. Helps wanted for updating it on par with the main repo
-
-Translation
-- [🇨🇳  中文文档（有点过时）](https://github.com/Huxpro/huxpro.github.io/blob/master/_doc/README.zh.md)
-
-
-License
--------
+## License
 
 Apache License 2.0.
-Copyright (c) 2015-present Huxpro
-
-Hux Blog is derived from [Clean Blog Jekyll Theme (MIT License)](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll/)
-Copyright (c) 2013-2016 Blackrock Digital LLC.
