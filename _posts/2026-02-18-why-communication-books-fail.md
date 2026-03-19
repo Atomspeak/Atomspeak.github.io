@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "为什么你读了那么多沟通书，还是不会沟通？"
-subtitle: "传统沟通学习的三大困境"
+title: "传统沟通学习的三大困境"
+subtitle: "为什么学了很多，却感觉进步有限"
 author: "极简沟通"
 header-img: "img/bg-walle.jpg"
 header-mask: 0.4
